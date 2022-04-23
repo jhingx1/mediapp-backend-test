@@ -20,4 +20,12 @@ public class PacienteController {
 		return service.listar();
 	}
 	
+	//listar por id
+	
+	//guardar paciente
+	
+	//editar paciente
+	
+	//eliminar paciente
+	
 }
